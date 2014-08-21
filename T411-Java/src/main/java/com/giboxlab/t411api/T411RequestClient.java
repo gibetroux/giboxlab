@@ -56,6 +56,8 @@ import com.google.gson.JsonSyntaxException;
 /**
  * The class that request the API with Apache HTTPClient. 
  * Internal class
+ * 
+ * @author Jean-Baptiste ROUX
  */
 public class T411RequestClient {
 
